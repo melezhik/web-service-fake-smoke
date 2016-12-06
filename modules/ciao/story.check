@@ -1,0 +1,5 @@
+begin:
+regexp: "status":\s+true
+regexp: "data":\s+{"message":"ciao sparrow"}
+end:
+
