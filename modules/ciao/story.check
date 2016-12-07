@@ -1,5 +1,4 @@
-begin:
-regexp: "status":\s+true
-regexp: "data":\s+{"message":"ciao sparrow"}
-end:
+1
+ciao sparrow
+
 
